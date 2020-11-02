@@ -4,6 +4,7 @@
 - [coppa nafta](gelati/coppa_nafta.md)
 
 ## Budini
+- [biancaneve](budini/biancaneve.md)
 
 ---
 Gelateria Padovana
