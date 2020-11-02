@@ -1,3 +1,4 @@
 1193398
-- [banana split](banana_split.md)
-- [coppa nafta](coppa_nafta.md)
+## Gelati
+- [banana split](gelati/banana_split.md)
+- [coppa nafta](gelati/coppa_nafta.md)
